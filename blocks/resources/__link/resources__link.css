@@ -1,14 +1,9 @@
 .resources__link {
-  text-align: center;
-  outline: 1px solid rgb(0, 255, 115);
-  width: calc((1100px - 270px)/3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 270px;
   padding: 0;
   margin: 0;
   font-size: 0px;
-}
-
-.resources__link:first-child {
-  width: 270px;
-  font-size: 0px;
-  outline: 1px solid rgb(55, 0, 255);
 }

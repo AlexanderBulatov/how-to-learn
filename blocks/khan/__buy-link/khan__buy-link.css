@@ -9,7 +9,6 @@
   height: min-content;
   opacity: 1;
   transition: opacity 0.25s;
-  outline: 1px red solid;
 }
 .khan__buy-link:hover {
   opacity: 0.5;

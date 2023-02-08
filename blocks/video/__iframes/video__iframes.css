@@ -1,6 +1,5 @@
 .video__iframes{
   display:flex;
-  outline: 2px solid rebeccapurple;
   margin-top: 50px;
   column-gap: 23px;
 }
